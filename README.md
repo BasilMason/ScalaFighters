@@ -1,0 +1,2 @@
+# ScalaFighters
+Stockfighters in Scala
